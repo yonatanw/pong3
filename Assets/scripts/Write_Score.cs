@@ -21,7 +21,7 @@ public class Write_Score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        score.text = "Your score: "+ (10*ScoreKeeper.score).ToString();
+      score.text = "Your score: "+ (10*ScoreKeeper.score).ToString();
 
     }
 }

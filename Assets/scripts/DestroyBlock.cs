@@ -7,7 +7,7 @@ public class DestroyBlock : MonoBehaviour {
     {
         
         //AudioSource.PlayClipAtPoint(hit2sfx, new Vector3(0, 0, 0));
-        Debug.Log("Destroyed!");
+       // Debug.Log("Destroyed!");
     }
 	
 }
